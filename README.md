@@ -10,4 +10,4 @@ Repository for Module05 Assignment for CS305
   * Utilize threads for I/O and CPU operations
   * Appropriately handle race conditions to create a deterministic OS Simulator
 
-This project will be licensed under the [GNU v2 License](LICENSE)
+This project will be licensed under the [GNU General Public License v2.0](LICENSE)
