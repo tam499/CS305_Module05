@@ -1,4 +1,6 @@
 # CS305_Module05
+#Adding my name to this file as well. Morgan (mch239) is a collaborator on this project. 
+
 Repository for Module05 Assignment for CS305
 
 **Project Details** : Create an operating system simulator that displays operating system operations to the screen or a log file when given a configuration and meta data file.  The simulator will be able to accomplish the following:
