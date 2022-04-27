@@ -13,3 +13,7 @@ Repository for Module05 Assignment for CS305
   * Appropriately handle race conditions to create a deterministic OS Simulator
 
 This project will be licensed under the [GNU General Public License v2.0](LICENSE)
+
+##Zachary Hallemeyer Contributions
+
+  * I will work on reading in meta and config data
